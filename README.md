@@ -5,7 +5,6 @@
 <div align="center">
  🌱 I’m currently learning **ExpressJs, React Native**
  </div>
- <hr/>
 
 <h2 align="center"> Languages-Frameworks-Tools </h2>
 <br/>
