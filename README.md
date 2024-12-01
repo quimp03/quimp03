@@ -9,11 +9,10 @@
 <p align="left">
 <a href="https://www.facebook.com/quimp03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/quimp03" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,"/>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css"/>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,mysql,pug"/><br>
 </div>
 <br/>
